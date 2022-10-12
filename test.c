@@ -1,10 +1,10 @@
-void main()
+int main()
 {
 
     int a;
 
     a += 100;
 
-    return;
+    return 0;
 
 }
